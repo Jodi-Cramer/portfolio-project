@@ -1,0 +1,101 @@
+body {
+    font: normal 300 18px/100% Lato, sans-serif;
+    color: #2d3c49;
+}
+
+a:link {
+    color: #23527c;
+    font-size: 18px;
+}
+
+a.footericon:link {
+    color: #23527c;
+    font-size: 14px;
+}
+
+header {
+    display:block;
+}
+
+footer {
+    display: block;
+    margin: 40px 0px 0px 0px;
+    padding: 20px;
+    border: solid #7d97ad;
+    border-width: 2px 0px 0px 0px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size:14px;
+}
+
+figcaption {
+	display: block;
+    margin: 20px auto 0px auto;
+	font-size: 40px;
+    font-weight: 400;
+	line-height: 25px;
+
+}
+
+figure {
+    display: block;
+    margin: 0px auto 0px auto;
+}
+
+figure.feature {
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+hr {
+    display: block;
+    border: solid #7d97ad;
+    border-width: 2px 0px 0px 0px;
+    max-width: 100%;
+    margin: 0px 15px 15px 15px;
+}
+
+h1.feature {
+    font-size: 50px;
+    font-weight: 300;
+}
+
+img, embed, object, video {
+    max-width: 100%;
+}
+
+img.feature {
+	display: block;
+	margin: 0px auto 0px auto;
+}
+
+img.footericon {
+    margin: 0px 10px 0px 10px;
+    height: 28px;
+    width: 28px;
+}
+
+p.copyright {
+    margin: 0px 0px 24px 0px;
+    text-align: center;
+}
+
+.text-lowercase {
+    text-transform: lowercase;
+}
+
+.text-muted {
+    color: #7d97ad;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+    margin: 22px 0px 0px 0px;
+}
